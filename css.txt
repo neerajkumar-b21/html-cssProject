@@ -1,0 +1,3 @@
+w3layouts
+font awesome icons
+font awesome cdn
